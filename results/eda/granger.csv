@@ -1,0 +1,7 @@
+target,predictor,lag_days,p_value,significant_0_05
+Price_Equipo1,Price_X,4,0.0007528292982657644,True
+Price_Equipo1,Price_Z,4,6.734360485629194e-10,True
+Price_Equipo2,Price_X,4,1.2467295939292662e-19,True
+Price_Equipo2,Price_Y,4,2.955086257560414e-16,True
+Price_Equipo2,Price_Z,8,1.1726360465992231e-147,True
+Price_Equipo1,Price_Y,11,5.159442850240671e-217,True

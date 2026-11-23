@@ -1,0 +1,7 @@
+column,dtype
+Date,datetime64[us]
+Price_X,float64
+Price_Y,float64
+Price_Z,float64
+Price_Equipo1,float64
+Price_Equipo2,float64
